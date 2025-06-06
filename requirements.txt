@@ -1,10 +1,10 @@
-keras==3.10.0
+keras==3.0.0
 matplotlib==3.8.3
-numpy==2.2.6
-pandas==2.3.0
+numpy==1.26.4
+pandas==2.2.2
 plotly==5.19.0
 prophet==1.1.7
-scikit_learn==1.7.0
+scikit-learn==1.4.2
 seaborn==0.13.2
 statsmodels==0.14.4
 streamlit==1.31.1
